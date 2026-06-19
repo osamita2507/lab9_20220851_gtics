@@ -1,3 +1,4 @@
+package org.example.lab9_20220851.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
